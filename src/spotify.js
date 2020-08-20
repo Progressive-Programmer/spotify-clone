@@ -33,9 +33,6 @@ export const getTokenFromUrl = () => {
 
 }
 
-// #access_token=BQAJKDocFw3V0r6kgQcE9raBMhwLFQjSssjl3Apjl526-PcF9UYCQ2fK1zDIq0iw_-93Tz9aVHACxlf8SO0bz7qgr0ALhGOA2KlbUmzJru-0YH4Kd643OroiEqkQRMn1-XJU9ZbRc2Uy2c-lvE9H-vIZpH6NMCE8weCMV4-YiyoPY9xlw9mA
-// &token_type=Bearer
-// &expires_in=3600
 
 
 export const loginUrl = 
