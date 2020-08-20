@@ -5,8 +5,7 @@ export const initialState = {
     item: null,
     // REMOVE after finished 
     token: null,
-    // 'BQCpluTNZHhcXi6TU0Rrpqw2D5Dm1_lGYqiEm-HA7wUEM_r0kdnMHG2KufP1XOOHeKapO_ySL1KvNpEkH2nLt-Iz73bO9tVM2j0Y0gNh4xAwIrn8gG2gJpq9lbsngVWwjL1VJMLdUTdZhegGEee2G0g1hYsEtdE1_xBYdFV8HyTmtCPRNvCR', 
-    // discover_weekly: null,
+
 };
 
 const reducer = (state, action ) => {
